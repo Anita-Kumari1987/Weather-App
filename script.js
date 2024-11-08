@@ -42,7 +42,5 @@ button.addEventListener("click",()=>{
   getWeatherInformation();
   let myWeatherBox =document.querySelector(".weatherBox")
   myWeatherBox.style.display='block'
-
-  
   }
 });
