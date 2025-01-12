@@ -78,11 +78,11 @@
   display: none;
 }
   #cloud_img{
-    width: 250px;
+    width: 45%;
     height: 150px;
     justify-content: center;
     align-self: center;
-    margin-top: 30px;
+    margin-top: 50px;
     margin-left: 120px;
   }
 
